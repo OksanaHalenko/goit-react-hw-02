@@ -1,0 +1,12 @@
+.wrapper {
+  margin: 0;
+  padding: 16px;
+}
+.title {
+  font-size: 64px;
+  font-weight: 700;
+}
+.text {
+  font-size: 28px;
+  font-weight: 500;
+}

@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  gap: 16px;
+  padding-left: 16px;
+}
+.button {
+  background-color: rgb(196, 165, 128);
+  border: 1px solid black;
+  border-radius: 4px;
+}
